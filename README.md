@@ -1,0 +1,2 @@
+# DiceeGame
+JavaScript practices
